@@ -1,0 +1,32 @@
+{
+  "model": "XGBRegressor",
+  "features": [
+    "dis_voltage_q50",
+    "dis_voltage_iqr",
+    "dis_voltage_range",
+    "dis_voltage_std",
+    "dis_voltage_slope",
+    "dis_current_mean",
+    "dis_current_range",
+    "dis_temp_mean",
+    "dis_temp_rise",
+    "dis_voltage_time_area",
+    "chg_voltage_std",
+    "chg_current_std",
+    "chg_temp_mean",
+    "chg_temp_max",
+    "chg_voltage_time_area"
+  ],
+  "n_estimators": 300,
+  "max_depth": 4,
+  "learning_rate": 0.03,
+  "subsample": 0.8,
+  "colsample_bytree": 0.8,
+  "min_child_weight": 3,
+  "reg_alpha": 0,
+  "reg_lambda": 1,
+  "objective": "reg:squarederror",
+  "eval_metric": "rmse",
+  "random_state": 42,
+  "target": "soh_relative"
+}

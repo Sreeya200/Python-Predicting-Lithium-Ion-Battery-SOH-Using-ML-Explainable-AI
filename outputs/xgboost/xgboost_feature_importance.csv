@@ -1,0 +1,16 @@
+feature,xgboost_importance,rank
+dis_voltage_q50,0.5359522,1
+chg_current_std,0.14770453,2
+dis_voltage_slope,0.12572338,3
+dis_voltage_time_area,0.114331335,4
+chg_voltage_std,0.029522732,5
+dis_current_mean,0.024978211,6
+dis_temp_rise,0.0049044383,7
+dis_temp_mean,0.0034437862,8
+chg_voltage_time_area,0.0033350347,9
+dis_voltage_iqr,0.00297583,10
+chg_temp_max,0.0020236985,11
+dis_voltage_std,0.0018818033,12
+chg_temp_mean,0.0017977802,13
+dis_current_range,0.0007847539,14
+dis_voltage_range,0.00064054516,15

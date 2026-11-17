@@ -1,0 +1,26 @@
+{
+  "model": "RandomForestRegressor",
+  "features": [
+    "dis_voltage_q50",
+    "dis_voltage_iqr",
+    "dis_voltage_range",
+    "dis_voltage_std",
+    "dis_voltage_slope",
+    "dis_current_mean",
+    "dis_current_range",
+    "dis_temp_mean",
+    "dis_temp_rise",
+    "dis_voltage_time_area",
+    "chg_voltage_std",
+    "chg_current_std",
+    "chg_temp_mean",
+    "chg_temp_max",
+    "chg_voltage_time_area"
+  ],
+  "n_estimators": 300,
+  "max_depth": 5,
+  "min_samples_leaf": 2,
+  "max_features": "sqrt",
+  "random_state": 42,
+  "target": "soh_relative"
+}

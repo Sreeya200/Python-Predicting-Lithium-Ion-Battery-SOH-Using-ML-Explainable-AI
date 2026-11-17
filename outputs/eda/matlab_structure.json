@@ -1,0 +1,38 @@
+{
+  "B0005": {
+    "number_of_cycles": 616,
+    "cycle_types": {
+      "charge": 170,
+      "discharge": 168,
+      "impedance": 278,
+      "unknown": 0
+    }
+  },
+  "B0006": {
+    "number_of_cycles": 616,
+    "cycle_types": {
+      "charge": 170,
+      "discharge": 168,
+      "impedance": 278,
+      "unknown": 0
+    }
+  },
+  "B0007": {
+    "number_of_cycles": 616,
+    "cycle_types": {
+      "charge": 170,
+      "discharge": 168,
+      "impedance": 278,
+      "unknown": 0
+    }
+  },
+  "B0018": {
+    "number_of_cycles": 319,
+    "cycle_types": {
+      "charge": 134,
+      "discharge": 132,
+      "impedance": 53,
+      "unknown": 0
+    }
+  }
+}

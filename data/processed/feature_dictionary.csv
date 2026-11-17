@@ -1,0 +1,25 @@
+feature,description
+dis_voltage_q10,10th percentile of discharge voltage
+dis_voltage_q50,Median of discharge voltage
+dis_voltage_q90,90th percentile of discharge voltage
+dis_voltage_iqr,Interquartile range of discharge voltage
+dis_voltage_range,Range of discharge voltage
+dis_voltage_std,Standard deviation of discharge voltage
+dis_voltage_slope,Slope of discharge voltage over time
+dis_current_mean,Mean discharge current
+dis_current_std,Standard deviation of discharge current
+dis_current_range,Range of discharge current
+dis_temp_mean,Mean discharge temperature
+dis_temp_max,Maximum discharge temperature
+dis_temp_rise,Discharge temperature rise
+dis_temp_slope,Slope of discharge temperature over time
+dis_duration,Discharge duration
+dis_voltage_time_area,Area under discharge voltage-time curve
+chg_voltage_mean,Mean voltage during preceding charge
+chg_voltage_std,Standard deviation of voltage during preceding charge
+chg_current_mean,Mean current during preceding charge
+chg_current_std,Standard deviation of current during preceding charge
+chg_temp_mean,Mean temperature during preceding charge
+chg_temp_max,Maximum temperature during preceding charge
+chg_duration,Preceding charge duration
+chg_voltage_time_area,Area under preceding charge voltage-time curve

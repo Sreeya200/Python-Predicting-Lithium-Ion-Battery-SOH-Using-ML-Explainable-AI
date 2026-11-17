@@ -1,0 +1,4 @@
+threshold,number_predictions,percentage
+±0.02 SoH,305,47.9559748427673
+±0.05 SoH,533,83.80503144654088
+±0.10 SoH,612,96.22641509433963

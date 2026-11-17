@@ -1,0 +1,25 @@
+feature,decision,absolute_correlation_with_soh
+dis_voltage_q10,Removed for high correlation,0.8984940659278304
+dis_voltage_q50,Retained,0.9438029725062841
+dis_voltage_q90,Removed for high correlation,0.9082024820922089
+dis_voltage_iqr,Retained,0.560274868955053
+dis_voltage_range,Retained,0.21032640828205076
+dis_voltage_std,Retained,0.169359617634764
+dis_voltage_slope,Retained,0.23064922512858116
+dis_current_mean,Retained,0.8819307868119678
+dis_current_std,Removed for high correlation,0.8235690400254231
+dis_current_range,Retained,0.24199067599766153
+dis_temp_mean,Retained,0.5619588157103089
+dis_temp_max,Removed for high correlation,0.5597395194999655
+dis_temp_rise,Retained,0.5236889899835049
+dis_temp_slope,Removed for high correlation,0.8475536151400356
+dis_duration,Removed for high correlation,0.8885430414229658
+dis_voltage_time_area,Retained,0.9209644705688055
+chg_voltage_mean,Removed for high correlation,0.7378901344187659
+chg_voltage_std,Retained,0.8358062041362334
+chg_current_mean,Removed for high correlation,0.7133215879202223
+chg_current_std,Retained,0.6132171883914408
+chg_temp_mean,Retained,0.02028802551964859
+chg_temp_max,Retained,0.04903662109898795
+chg_duration,Removed for high correlation,0.17349005125718772
+chg_voltage_time_area,Retained,0.21751762330203908
